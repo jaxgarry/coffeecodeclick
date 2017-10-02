@@ -1,0 +1,20 @@
+{
+  "name": "njs",
+  "version": "1.0.0",
+  "description": "live collaborative list for J and J adventures",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "jgarry",
+  "license": "MIT",
+  "dependencies": {
+    "consolidate": "^0.14.5",
+    "express": "^4.16.1",
+    "mustache": "^2.3.0"
+  },
+  "engines": {
+    "node": "8.6.0"
+  }
+}
