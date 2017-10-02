@@ -16,5 +16,6 @@
   },
   "engines": {
     "node": "8.6.0"
+  },
+  "repository": "jaxgarry/njs"
   }
-}
