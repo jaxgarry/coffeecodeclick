@@ -1,2 +1,2 @@
-# NJs
-A space where my partner and I can interactively add destinations we'd like to visit together. 
+# Coffee Code Click
+A space where I can play around with some code and document my coffee, coding, and climbing adventures. 
